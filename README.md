@@ -1,13 +1,27 @@
-# TripleTen\_Projects
+# Returns Dashboard Project
 
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+## Overview
+This project focused on building a Tableau dashboard to analyze product return patterns and provide actionable insights for reducing returns. The goal was to empower stakeholders with a clear, interactive view of return trends, helping the company minimize losses and improve customer satisfaction. By turning raw sales and returns data into a dynamic visualization, I delivered a tool that supports smarter business decisions.
 
-| Project number | Title                                 | Description                                                                                                                                           |
-| :------------: | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-|        1       | [Manhattan Property Investment Project](https://docs.google.com/spreadsheets/d/1Awz8vYI1DtfuQTQviuHma7FNzetpU4uUfT2m9RqzQp8/edit?usp=sharing)| Used Google Sheets to analyze Airbnb data in Manhattan, identify top rental locations, build investment models, and forecast revenue by neighborhood. | 
-|        2       | [Returns Dashboard Project](https://public.tableau.com/views/Sprint5Project_17516417257990/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)             | Built a Tableau dashboard to track and reduce product returns by analyzing patterns and providing actionable business insights.                       |
-|        3       | SQL Project – Superstore              | Used SQL to analyze taxi ride data and weather conditions, uncover usage trends, and recommend strategies to optimize fleet operations.               |
+## Key Questions Answered
+Which products and categories experience the highest return rates?
+Are there geographic or seasonal patterns in returns?
+How can the business reduce return rates and improve profitability?
 
----
+## Approach & Functionality
+Data Preparation – Cleaned and structured raw sales and return datasets for Tableau integration.
+Interactive Dashboard – Designed a user-friendly dashboard to track returns by product, category, state, and time period.
+Pattern Analysis – Identified drivers of high return rates, including product subcategories and seasonal trends.
+Business Insights – Highlighted key areas where policy changes or process improvements could reduce losses.
 
+## Results & Impact
 
+Revealed high-return product categories, guiding targeted quality control measures.
+Exposed regional trends in returns, allowing for tailored inventory and logistics strategies.
+Equipped stakeholders with a scalable, interactive dashboard to monitor and address returns in real time.
+
+## Technologies Used
+
+Tableau – for building the dashboard and creating interactive visualizations.
+Data Cleaning Tools – structured the raw data for seamless Tableau integration.
+Analytical Methods – applied return-rate calculations and trend analysis for insights.
