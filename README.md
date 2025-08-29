@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing Airbnb data across Manhattan to identify high-yield rental opportunities. The goal was to support investment decisions by uncovering profitable neighborhoods and property types. As part of Sprint 1, I worked on collecting, cleaning, and modeling the data to create insights and strategies tailored to client investment goals.
+This project focuses on analyzing Airbnb data across Manhattan to identify high-yield rental opportunities. The goal was to support investment decisions by uncovering profitable neighborhoods and property types. I worked on collecting, cleaning, and modeling the data to create insights and strategies tailored to client investment goals.
 
 ## Key Questions Addressed
 
@@ -13,7 +13,7 @@ How can a revenue projection strategy help maximize profitability by neighborhoo
 ## Prerequisites
 
 Access to Airbnb datasets (scraped or provided).
-Basic knowledge of Google Sheets for cleaning, modeling, and analyzing data.
+Knowledge of Google Sheets for cleaning, modeling, and analyzing data.
 
 ## Functionality
 
