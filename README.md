@@ -1,13 +1,36 @@
-# TripleTen\_projects
+# MOVIE APP USING TMDB
 
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+## Overview
+* This is an updated and better version of my movie app, where I only had 10 personal movies, This app fetches data from the TMDB API to show information about movies. This App also uses another Api that allows the user to send voice command to the app and the app will do it. 
 
-| Project number | Title                                 | Description                                                                                                                                           |
-| :------------: | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-|        1       | [Manhattan Property Investment Project](https://docs.google.com/spreadsheets/d/1Awz8vYI1DtfuQTQviuHma7FNzetpU4uUfT2m9RqzQp8/edit?usp=sharing)| Used Google Sheets to analyze Airbnb data in Manhattan, identify top rental locations, build investment models, and forecast revenue by neighborhood. | 
-|        2       | [Returns Dashboard Project](https://public.tableau.com/views/Sprint5Project_17516417257990/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)             | Built a Tableau dashboard to track and reduce product returns by analyzing patterns and providing actionable business insights.                       |
-|        3       | SQL Project – Superstore              | Used SQL to analyze taxi ride data and weather conditions, uncover usage trends, and recommend strategies to optimize fleet operations.               |
+### Question/Commands you can ask the app and the app will give you an answer or action.
 
----
+1. What does this app do?
+2. Give the command [go to] "pick a genre/category"
+3. Give the command "Change screen Mode" 
+4. More command and functionalities to come... 
+
+### Prerequisites
+* You need to create an account and get an API key in the MovieDatabase Api [Follow the link -> ](https://developers.themoviedb.org/3)
+
+### Functionality
+
+* It allows the user to click on a specific Genre and the app fetches movies according to that Genre. 
+* Once the user clicks on a specific movie, the app will display information about the movie, from reviews to the cast. And according to the specific movie clicked the User will be able to see recommended movies that are similar to the clicked one. 
+* You can also ask the app 
 
 
+### Technologies
+* To build this app latest technologies were used, using React hooks and Redux for state management. As for Css this app uses Material UI for some parts, and the most using css grid/flex. 
+
+- React JS
+- React Router
+- Redux, Redux-Thunk
+- MaterialUI
+- SCSS modules
+
+
+### Installing 
+* Clone the Repo and run npm install and npm run to run on localhost
+
+[Click here to see live Version --> ](https://newmovies.netlify.app)
