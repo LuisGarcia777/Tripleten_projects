@@ -8,7 +8,9 @@ This project analyzed Airbnb data across Manhattan to uncover high-yield rental 
 # Key Questions Answered
 
 Which Manhattan neighborhoods offer the highest profitability potential for Airbnb rentals?
+
 What property types best align with investment goals?
+
 How can a data-driven revenue projection model guide smarter investment decisions?
 
 # Approach & Functionality
