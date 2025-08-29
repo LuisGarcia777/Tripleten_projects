@@ -1,36 +1,33 @@
-# MOVIE APP USING TMDB
+# Manhattan Property Investment Project
 
 ## Overview
-* This is an updated and better version of my movie app, where I only had 10 personal movies, This app fetches data from the TMDB API to show information about movies. This App also uses another Api that allows the user to send voice command to the app and the app will do it. 
 
-### Question/Commands you can ask the app and the app will give you an answer or action.
+This project focuses on analyzing Airbnb data across Manhattan to identify high-yield rental opportunities. The goal was to support investment decisions by uncovering profitable neighborhoods and property types. As part of Sprint 1, I worked on collecting, cleaning, and modeling the data to create insights and strategies tailored to client investment goals.
 
-1. What does this app do?
-2. Give the command [go to] "pick a genre/category"
-3. Give the command "Change screen Mode" 
-4. More command and functionalities to come... 
+##Key Questions Addressed
 
-### Prerequisites
-* You need to create an account and get an API key in the MovieDatabase Api [Follow the link -> ](https://developers.themoviedb.org/3)
+Which neighborhoods in Manhattan provide the best return on investment for Airbnb properties?
+What are the top property options aligned with client investment goals?
+How can a revenue projection strategy help maximize profitability by neighborhood?
 
-### Functionality
+##Prerequisites
 
-* It allows the user to click on a specific Genre and the app fetches movies according to that Genre. 
-* Once the user clicks on a specific movie, the app will display information about the movie, from reviews to the cast. And according to the specific movie clicked the User will be able to see recommended movies that are similar to the clicked one. 
-* You can also ask the app 
+Access to Airbnb datasets (scraped or provided).
+Basic knowledge of Google Sheets for cleaning, modeling, and analyzing data.
+
+##Functionality
+
+Collected, cleaned, and structured Airbnb market data across Manhattan.
+Developed models to determine the top three property options for potential investors.
+Designed a revenue projection strategy with neighborhood-level insights.
+Created visualizations to clearly communicate findings and recommendations.
+
+##Technologies
+
+Google Sheets – for data collection, cleaning, analysis, and modeling.
+Data visualization techniques – charts, pivot tables, and trend analysis.
+Statistical methods for evaluating profitability across neighborhoods.
 
 
-### Technologies
-* To build this app latest technologies were used, using React hooks and Redux for state management. As for Css this app uses Material UI for some parts, and the most using css grid/flex. 
-
-- React JS
-- React Router
-- Redux, Redux-Thunk
-- MaterialUI
-- SCSS modules
 
 
-### Installing 
-* Clone the Repo and run npm install and npm run to run on localhost
-
-[Click here to see live Version --> ](https://newmovies.netlify.app)
